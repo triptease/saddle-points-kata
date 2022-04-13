@@ -4,8 +4,8 @@ The fourth coding dojo challenge!
 
 To get started:
 1) run `yarn install` from root
-2) find broken tests inside `allergies.tests.ts`
-3) work on `allergies.ts` until all the tests pass!
+2) find broken tests inside `saddle-points.tests.ts`
+3) work on `saddle-test.ts` until all the tests pass!
 
 # Instructions
 
